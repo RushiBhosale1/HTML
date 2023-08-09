@@ -1,0 +1,15 @@
+Hypertext Markup Langage
+-We can create website with only HTML file
+-Hypertext(Linking webpages)
+-Markup Language("", bold, italic, underline, etc)
+
+How does we do markup with html
+-its through html tags
+-there are many html tags
+-we are using most common tags
+
+
+Tags vs Elements
+<h1>Hello World</h1>
+opening tag      closing tag
+entire i.e opening tag, content and closing tag is element

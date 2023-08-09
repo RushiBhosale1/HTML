@@ -1,0 +1,19 @@
+How website Works
+
+
+Internet is long piece of wire. Wire connects each computers. This computer communicate with each other via wire.
+
+Servers: Computers which are open 24/7 and serves data/websites which clients request
+clients: Computers which request for data/website
+
+
+A web server: Gaint library which is open 24/7 
+it is difficult to locate particular file/website in this library.
+So, for eg client requests for google.com
+client->ISP(Internet Service Provider)(Interact with internet)-> DNS(Domain name System)(Phone Book of ip address)
+
+nslookup.com - for ip address
+
+
+Under Occens?
+under sea cables 

@@ -1,0 +1,14 @@
+How website works?
+Usually Data recived from servers consists of html, css, js
+
+html
+content in website eg if there is house, then html is bricks of house,  raw material
+this contains text, img, links, etc
+
+css
+Styling website eg coloring, tiles, etc
+this content background color, text color, etc
+
+js
+functionality eg adding light bulbs that turning on and off
+this content sending emails, etc
